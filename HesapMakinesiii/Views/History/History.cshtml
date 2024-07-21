@@ -1,0 +1,37 @@
+﻿@using HesapMakinesiii.Data
+@model IEnumerable<CalculationHistory>
+
+<h2>Calculation History</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Number1</th>
+            <th>Number2</th>
+            <th>Operation</th>
+            <th>Result</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Number1</td>
+                    <td>@item.Number2</td>
+                    <td>@item.Operation</td>
+                    <td>@item.Result</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No data available</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

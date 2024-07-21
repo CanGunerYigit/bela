@@ -1,0 +1,155 @@
+﻿@model HesapMakinesiii.Models.CalculatorModel
+
+@{
+    ViewData["Title"] = "Calculator";
+}
+<form method="post" asp-action="Index" asp-controller="Calculator">
+    <div class="calculator">
+        <div class="a">
+            <div class="display">
+                <input class="input" type="text" id="display" placeholder="0000000000">
+            </div>
+            <div class="keys">
+                <button class="key" type="button" onclick="appendToDisplay('1')">1</button>
+                <button class="key" type="button" onclick="appendToDisplay('2')">2</button>
+                <button class="key" type="button" onclick="appendToDisplay('3')">3</button>
+                <button class="key addoperator" type="button" onclick="appendToDisplay('+')">+</button>
+                <button class="key" type="button" onclick="appendToDisplay('4')">4</button>
+                <button class="key" type="button" onclick="appendToDisplay('5')">5</button>
+                <button class="key" type="button" onclick="appendToDisplay('6')">6</button>
+                <button class="key suboperator" type="button" onclick="appendToDisplay('-')">-</button>
+                <button class="key" type="button" onclick="appendToDisplay('7')">7</button>
+                <button class="key" type="button" onclick="appendToDisplay('8')">8</button>
+                <button class="key" type="button" onclick="appendToDisplay('9')">9</button>
+                <button class="key muloperator" type="button" onclick="appendToDisplay('*')">x</button>
+                <button class="key operator" type="button" onclick="clearDisplay()">C</button>
+                <button class="key" type="button" onclick="appendToDisplay('0')">0</button>
+                <button class="key" type="button" onclick="appendToDisplay('.')">.</button>
+                <button class="key divoperator" type="button" onclick="appendToDisplay('/')"><span class="divspan">/</span></button>
+                <button class="key operator equal-key" type="button" onclick="calculateAndAppend()">=</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+<script src="~/js/calculator.js"></script>
+
+
+<style>
+
+   
+   
+
+   .divspan{
+       color:black;
+       font-weight:bold;
+   } 
+   .divoperator{
+       background-color:azure !important;
+   }
+   .divoperator:hover{
+       background-color:antiquewhite !important;
+   }
+    .equal-key:hover {
+        background-color: dodgerblue !important;
+    }
+
+    .suboperator:hover {
+        background-color: darkred !important;
+    }
+
+    .addoperator:hover {
+        background-color: darkgreen !important;
+    }
+
+    .muloperator:hover {
+        background-color: darkgoldenrod !important;
+    }
+
+    .suboperator {
+        background-color: red !important;
+        font-weight: bold;
+    }
+
+    .muloperator {
+        background-color: #F9D806 !important;
+        font-weight: bold;
+    }
+
+    .addoperator {
+        background-color: green !important;
+        font-weight: bold;
+    }
+
+    body {
+        background-image: url('@Url.Content("~/img/image.jpg")') !important;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+        background-attachment: fixed !important;
+        background-position: center !important;
+    }
+
+    .calculator {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 320px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #333;
+        border-radius:10px;
+    }
+
+    .input {
+        background-color: #333;
+        padding: 70px 0;
+        border: none;
+        color: #fff;
+        width: 100%;
+        padding: 10px;
+        font-size: 24px;
+        text-align: right;
+    }
+
+    .keys {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+    }
+
+    .equal-key {
+        background-color: deepskyblue !important;
+    }
+
+    .key {
+        padding: 15px;
+        font-size: 18px;
+        background-color: #444;
+        border: none;
+        color: #fff;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .key:hover {
+            background-color: #555;
+        }
+
+    .equal-key {
+        grid-column: span 4;
+    }
+
+    .display {
+        margin-bottom: 10px;
+        text-align: right;
+    }
+
+    .a {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+
+</style>

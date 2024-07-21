@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BusinessLayer",
+    "\\DataAccessLayer",
+    "\\HesapMakinesiii",
+    "\\HesapMakinesiii\\Views",
+    "\\HesapMakinesiii\\Views\\Home",
+    "\\ModelLayer",
+    "\\ModelsLayer"
   ],
-  "SelectedNode": "\\AdvancedNCalculator.sln",
+  "SelectedNode": "\\HesapMakinesiii\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

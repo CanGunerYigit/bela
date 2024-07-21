@@ -1,136 +1,136 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\",
+  "WorkspaceRootPath": "C:\\Users\\TR\\source\\repos\\bela\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E9F531F-2B95-4FE4-A91B-6778B0216139}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\businesslayer\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E9F531F-2B95-4FE4-A91B-6778B0216139}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\dataaccesslayer\\calculationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\calculationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\dataaccesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\history\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\history\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\history\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\dataaccesslayer\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9F531F-2B95-4FE4-A91B-6778B0216139}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\businesslayer\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9F531F-2B95-4FE4-A91B-6778B0216139}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB40E1-6A3B-4D36-B4FA-9EBF0E7F2BFC}|ModelsLayer\\ModelLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\modelslayer\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB40E1-6A3B-4D36-B4FA-9EBF0E7F2BFC}|ModelsLayer\\ModelLayer.csproj|solutionrelative:modelslayer\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\dataaccesslayer\\calculationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\calculationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\dataaccesslayer\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/calculator/True/SqlTable/dbo.CalculationHistories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EBB40E1-6A3B-4D36-B4FA-9EBF0E7F2BFC}|ModelsLayer\\ModelLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\modelslayer\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EBB40E1-6A3B-4D36-B4FA-9EBF0E7F2BFC}|ModelsLayer\\ModelLayer.csproj|solutionrelative:modelslayer\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\dataaccesslayer\\migrations\\20240719182724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\dataaccesslayer\\migrations\\20240719182724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20240719182724_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A77E9D8B-8AF5-49C7-BDCF-8773BE2E1828}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\models\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\models\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\models\\hesaplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EBB40E1-6A3B-4D36-B4FA-9EBF0E7F2BFC}|ModelsLayer\\ModelLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\modelslayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6EBB40E1-6A3B-4D36-B4FA-9EBF0E7F2BFC}|ModelsLayer\\ModelLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\modelslayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6EBB40E1-6A3B-4D36-B4FA-9EBF0E7F2BFC}|ModelsLayer\\ModelLayer.csproj|solutionrelative:modelslayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\advancedcalculatorlast\\hesapmakinesiii\\helpers\\tempdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|c:\\users\\tr\\source\\repos\\bela\\hesapmakinesiii\\helpers\\tempdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25F4EA4D-A75D-48F8-9162-4EDE6EA30374}|HesapMakinesiii\\PresentationLayer.csproj|solutionrelative:hesapmakinesiii\\helpers\\tempdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -141,144 +141,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "HesapMakinesiii\\Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "HesapMakinesiii\\Controllers\\CalculatorController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "DocumentIndex": 7,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\BusinessLayer\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\BusinessLayer\\CalculatorService.cs",
+              "RelativeToolTip": "BusinessLayer\\CalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T05:38:54.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CalculationHistory.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\CalculationHistory.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CalculationHistory.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\CalculationHistory.cs",
-              "RelativeToolTip": "DataAccessLayer\\CalculationHistory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T08:39:55.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:29:08.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HistoryController.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Controllers\\HistoryController.cs",
-              "RelativeDocumentMoniker": "HesapMakinesiii\\Controllers\\HistoryController.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Controllers\\HistoryController.cs",
-              "RelativeToolTip": "HesapMakinesiii\\Controllers\\HistoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:35:37.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T11:25:38.237Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CalculatorService.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\BusinessLayer\\CalculatorService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\CalculatorService.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\BusinessLayer\\CalculatorService.cs",
-              "RelativeToolTip": "BusinessLayer\\CalculatorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:25:38.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Program.cs",
-              "RelativeDocumentMoniker": "HesapMakinesiii\\Program.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Program.cs",
-              "RelativeToolTip": "HesapMakinesiii\\Program.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAgwEkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:41:40.174Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HesapMakinesiii\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T05:42:18.722Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HesapMakinesiii\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T05:42:18.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "History.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\History\\History.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\History\\History.cshtml",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\History\\History.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\History\\History.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\History\\History.cshtml",
               "RelativeToolTip": "HesapMakinesiii\\Views\\History\\History.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-20T08:29:39.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "History.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Home\\History.cshtml",
-              "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Home\\History.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Home\\History.cshtml",
-              "RelativeToolTip": "HesapMakinesiii\\Views\\Home\\History.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-18T12:49:14.524Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HesapMakinesiii\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HesapMakinesiii\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:55:44.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "HesapMakinesiii\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "HesapMakinesiii\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:38:54.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HesapMakinesiii\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-17T05:53:21.231Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Home\\History.cshtml",
+              "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Home\\History.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Home\\History.cshtml",
+              "RelativeToolTip": "HesapMakinesiii\\Views\\Home\\History.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:49:14.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "HesapMakinesiii\\Controllers\\HistoryController.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "HesapMakinesiii\\Controllers\\HistoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:02:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "calculator.js",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\js\\calculator.js",
+              "RelativeDocumentMoniker": "HesapMakinesiii\\wwwroot\\js\\calculator.js",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\js\\calculator.js",
+              "RelativeToolTip": "HesapMakinesiii\\wwwroot\\js\\calculator.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-21T13:33:19.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\CalculationHistory.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CalculationHistory.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\CalculationHistory.cs",
+              "RelativeToolTip": "DataAccessLayer\\CalculationHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:39:55.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\ModelsLayer\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "ModelsLayer\\CalculatorModel.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\ModelsLayer\\CalculatorModel.cs",
+              "RelativeToolTip": "ModelsLayer\\CalculatorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:53:41.987Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Program.cs",
+              "RelativeDocumentMoniker": "HesapMakinesiii\\Program.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Program.cs",
+              "RelativeToolTip": "HesapMakinesiii\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:41:40.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Hesaplama.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\Hesaplama.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\Hesaplama.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Hesaplama.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\Hesaplama.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\Hesaplama.cs",
               "RelativeToolTip": "DataAccessLayer\\Hesaplama.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "dbo.CalculationHistories [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/calculator/True/SqlTable/dbo.CalculationHistories.sql",
               "ToolTip": "dbo.CalculationHistories [Data]",
@@ -295,11 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\appsettings.json",
               "RelativeDocumentMoniker": "HesapMakinesiii\\appsettings.json",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\appsettings.json",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\appsettings.json",
               "RelativeToolTip": "HesapMakinesiii\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -319,23 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CalculatorModel.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\ModelsLayer\\CalculatorModel.cs",
-              "RelativeDocumentMoniker": "ModelsLayer\\CalculatorModel.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\ModelsLayer\\CalculatorModel.cs",
-              "RelativeToolTip": "ModelsLayer\\CalculatorModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T10:53:41.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\Index.cshtml",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Shared\\Index.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\Index.cshtml",
               "RelativeToolTip": "HesapMakinesiii\\Views\\Shared\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -343,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20240719182724_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\Migrations\\20240719182724_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\Migrations\\20240719182724_InitialCreate.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240719182724_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\Migrations\\20240719182724_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\Migrations\\20240719182724_InitialCreate.cs",
               "RelativeToolTip": "DataAccessLayer\\Migrations\\20240719182724_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,23 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HesapMakinesiii\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HesapMakinesiii\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:55:44.909Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "HesapMakinesiii\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,9 +373,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "DataAccessLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\DataAccessLayer.csproj",
               "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\DataAccessLayer\\DataAccessLayer.csproj",
               "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -393,9 +385,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "PresentationLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\PresentationLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\PresentationLayer.csproj",
               "RelativeDocumentMoniker": "HesapMakinesiii\\PresentationLayer.csproj",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\PresentationLayer.csproj",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\PresentationLayer.csproj",
               "RelativeToolTip": "HesapMakinesiii\\PresentationLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -405,9 +397,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Hesaplama.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Models\\Hesaplama.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Models\\Hesaplama.cs",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Models\\Hesaplama.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Models\\Hesaplama.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Models\\Hesaplama.cs",
               "RelativeToolTip": "HesapMakinesiii\\Models\\Hesaplama.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,9 +409,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "HesapMakinesiii\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -429,9 +421,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "HesapMakinesiii\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -441,9 +433,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "HesapMakinesiii\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -453,9 +445,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "HesapMakinesiii\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -465,9 +457,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "ModelLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\ModelsLayer\\ModelLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\ModelsLayer\\ModelLayer.csproj",
               "RelativeDocumentMoniker": "ModelsLayer\\ModelLayer.csproj",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\ModelsLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\ModelsLayer\\ModelLayer.csproj",
               "RelativeToolTip": "ModelsLayer\\ModelLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -477,9 +469,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "bootstrap.js",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "HesapMakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeToolTip": "HesapMakinesiii\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -489,9 +481,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "LICENSE",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\LICENSE",
               "RelativeDocumentMoniker": "HesapMakinesiii\\wwwroot\\lib\\bootstrap\\LICENSE",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\lib\\bootstrap\\LICENSE",
               "RelativeToolTip": "HesapMakinesiii\\wwwroot\\lib\\bootstrap\\LICENSE",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -501,9 +493,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "HesapMakinesiii\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\js\\site.js",
               "RelativeToolTip": "HesapMakinesiii\\wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -513,9 +505,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\css\\styles.css",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "HesapMakinesiii\\wwwroot\\css\\styles.css",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\css\\styles.css",
               "RelativeToolTip": "HesapMakinesiii\\wwwroot\\css\\styles.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -525,9 +517,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "TempDataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Helpers\\TempDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Helpers\\TempDataHelper.cs",
               "RelativeDocumentMoniker": "HesapMakinesiii\\Helpers\\TempDataHelper.cs",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\Helpers\\TempDataHelper.cs",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\Helpers\\TempDataHelper.cs",
               "RelativeToolTip": "HesapMakinesiii\\Helpers\\TempDataHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,9 +529,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "additional-methods.js",
-              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
               "RelativeDocumentMoniker": "HesapMakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-              "ToolTip": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
               "RelativeToolTip": "HesapMakinesiii\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",

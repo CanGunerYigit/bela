@@ -3,9 +3,16 @@
 @{
     ViewData["Title"] = "Calculator";
 }
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
+
 <form method="post" asp-action="Index" asp-controller="Calculator">
     <div class="calculator">
         <div class="a">
+            <div class="sa">
+                <i class="icon fa-solid fa-calculator"></i>
+                <span class="s">Web<span class="calc">Calculator</span><span>
+
+                </div>
             <div class="display">
                 <input class="input" type="text" id="display" placeholder="0000000000">
             </div>
@@ -37,8 +44,25 @@
 
 
 <style>
+    .icon{
+        color:azure;
+    }
+    .calc{
+        color:yellow;
+        font-weight:500;
+    }
+    .sa{
+        position:absolute;
+        top:0;
+        left:0;
+        padding-left:7px;
+        padding-top:5px;
+        
 
-   
+    }
+   .s{
+       color:white;
+   }
    
 
    .divspan{
@@ -88,9 +112,11 @@
         background-repeat: no-repeat !important;
         background-attachment: fixed !important;
         background-position: center !important;
+        background-color: #2C2C2C;
     }
 
     .calculator {
+        position:relative;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -120,6 +146,7 @@
 
     .equal-key {
         background-color: deepskyblue !important;
+        font-weight: bold;
     }
 
     .key {
@@ -146,6 +173,7 @@
     }
 
     .a {
+      
         display: flex;
         flex-direction: column;
     }

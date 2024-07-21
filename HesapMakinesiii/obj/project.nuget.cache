@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DSPq5un22Tw=",
+  "dgSpecHash": "SU8KfEVS0iQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TR\\source\\repos\\AdvancedCalculatorLast\\HesapMakinesiii\\PresentationLayer.csproj",
+  "projectFilePath": "C:\\Users\\TR\\source\\repos\\bela\\HesapMakinesiii\\PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TR\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\TR\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
